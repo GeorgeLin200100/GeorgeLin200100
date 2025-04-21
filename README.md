@@ -1,5 +1,6 @@
 ## Hi there 👋
-
+### My Weekly Development Activity
+<script src="https://gist.github.com/GeorgeLin200100/6040e2706290844adabedf2efab31a24.js"></script>
 <!--
 **GeorgeLin200100/GeorgeLin200100** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
