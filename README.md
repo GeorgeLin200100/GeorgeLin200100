@@ -1,4 +1,3 @@
-### About My Github
 <div align="center">
   <table style="width:100%;">
     <tr>
@@ -10,7 +9,7 @@
       <td align="center">
         <img height='200' src="https://github-readme-stats.vercel.app/api/top-langs/?username=GeorgeLin200100&layout=compact" />
       </td>
-    </tr> -->
+    </tr>
     <!-- 第三个图片  -->
     <tr>
       <td colspan="2" align="center">
