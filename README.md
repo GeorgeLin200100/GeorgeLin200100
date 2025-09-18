@@ -1,4 +1,4 @@
-You are my ![Visitor Count](https://profile-counter.glitch.me/GeorgeLin200100/count.svg)th visitor
+You are my ![Visitor Count](https://komarev.com/ghpvc/?username=GeorgeLin200100)th visitor
 <div align="center">
   <table style="width:100%;">
     <tr>
