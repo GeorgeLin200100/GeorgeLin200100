@@ -1,4 +1,4 @@
-You are my ![Visitor Count](https://komarev.com/ghpvc/?username=GeorgeLin200100)th visitor
+![Visitor Count](https://komarev.com/ghpvc/?username=GeorgeLin200100)
 <div align="center">
   <table style="width:100%;">
     <tr>
